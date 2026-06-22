@@ -2,14 +2,13 @@
 
 Free repair, diagnostic, and device buyback resources for phones, tablets, laptops, game consoles, and electronics.
 
-## What this repository includes
+## Resources
 
-- Phone repair diagnostic checklist
-- Tablet repair checklist
-- Laptop inspection checklist
-- Game console repair checklist
-- Used electronics buyback inspection guide
-- Basic device condition grading tips
+- [Phone Repair Diagnostic Checklist](phone-repair-diagnostic-checklist.md)
+- [Tablet Repair Checklist](tablet-repair-checklist.md)
+- [Laptop Inspection Checklist](laptop-inspection-checklist.md)
+- [Game Console Repair Checklist](game-console-repair-checklist.md)
+- [Device Buyback Inspection Guide](device-buyback-inspection-guide.md)
 
 ## About 2A Electronics
 
